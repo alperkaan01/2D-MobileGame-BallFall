@@ -2852,6 +2852,18 @@ PrefabInstance:
       propertyPath: playerSelector
       value: 
       objectReference: {fileID: 1839894406}
+    - target: {fileID: 3869881517358642614, guid: fb9db9dc922afca499ff758514f06563, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 152.39642
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869881517555352006, guid: fb9db9dc922afca499ff758514f06563, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 152.3964
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869881518108997974, guid: fb9db9dc922afca499ff758514f06563, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 10.288438
+      objectReference: {fileID: 0}
     - target: {fileID: 3869881518715047770, guid: fb9db9dc922afca499ff758514f06563, type: 3}
       propertyPath: m_Name
       value: Confiner
@@ -2920,6 +2932,10 @@ PrefabInstance:
     - target: {fileID: 4888189173473029159, guid: b1f2a80db41e4e641b17119cb543e4a1, type: 3}
       propertyPath: m_RootOrder
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4888189173473029159, guid: b1f2a80db41e4e641b17119cb543e4a1, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.65
       objectReference: {fileID: 0}
     - target: {fileID: 4888189173473029159, guid: b1f2a80db41e4e641b17119cb543e4a1, type: 3}
       propertyPath: m_LocalPosition.x
